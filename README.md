@@ -18,9 +18,10 @@ spring boot + mybatis + mysql + view(thymeleaf) 的基础例子，用于初学�
 
 ## 4.application.properties的关键属性配置
 
-![输入图片说明](http://git.oschina.net/uploads/images/2016/0929/180549_0ef13002_629055.png "application.properties")
+![application.properties](springboot.png)
 
+本地开发建议关闭缓存
 
-其余任何东西都不需要配置，只需要下载下来导入IDE就可以运行；
+## 其余任何东西都不需要配置，只需要下载下来导入IDE就可以运行；
 
 # 注：maven仓库需要另外配置
